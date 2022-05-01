@@ -1,0 +1,12 @@
+.app {
+  text-align: center;
+  background-color: #022c43;
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+}
+
+.page {
+  flex: 1 1 auto;
+}

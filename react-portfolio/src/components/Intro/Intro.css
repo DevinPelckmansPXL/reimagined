@@ -1,0 +1,40 @@
+.intro-greeting {
+  margin-top: 6rem;
+  color: #ffd700;
+  line-height: 0.5rem;
+}
+
+.intro-name {
+  color: white;
+}
+
+.intro-title, .intro-message {
+  color: lightgray;
+}
+
+.intro-name, .intro-title {
+  line-height: 0rem;
+}
+
+.intro-title {
+  font-size: 32px;
+}
+
+.intro-message {
+  line-height: 0.5rem;
+  margin-bottom: 6rem;
+}
+
+.intro-text {
+  margin-left: 20%;
+  margin-right: 20%;
+  color: lightgray;
+  text-align: left;
+}
+
+.article-title {
+  border-bottom: 3px solid #ffd700;
+  width: fit-content;
+  margin: auto;
+  margin-bottom: 2rem;
+}
